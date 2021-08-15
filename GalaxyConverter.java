@@ -13,7 +13,7 @@ public class GalaxyConverter {
     public static void main(String[] args) {
 
         if (args.length != 1) {
-            System.out.println("Please provide an input file.");
+            System.out.println("Please provide just an input file.");
             return;
         }
 
